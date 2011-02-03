@@ -1,0 +1,214 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddEmailUniquenessIndex	db/migrate/20110131221305_add_email_uniqueness_index.rb	/^class AddEmailUniquenessIndex < ActiveRecord::Migration$/;"	c
+AddPasswordToUsers	db/migrate/20110201190750_add_password_to_users.rb	/^class AddPasswordToUsers < ActiveRecord::Migration$/;"	c
+AddSaltToUsers	db/migrate/20110201192442_add_salt_to_users.rb	/^class AddSaltToUsers < ActiveRecord::Migration$/;"	c
+Ajax.InPlaceCollectionEditor.DefaultOptions.loadingCollectionText	public/javascripts/controls.js	/^Ajax.InPlaceCollectionEditor.DefaultOptions = {$/;"	p
+Ajax.InPlaceEditor	public/javascripts/controls.js	/^});$/;"	c
+Ajax.InPlaceEditor.initialize	public/javascripts/controls.js	/^Ajax.InPlaceEditor.prototype.initialize.dealWithDeprecatedOptions = function(options) {$/;"	m
+Application	config/application.rb	/^  class Application < Rails::Application$/;"	c	class:SampleApp
+ApplicationController	app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+Autocompleter.Base	public/javascripts/controls.js	/^});$/;"	c
+Autocompleter.Base.getTokenBounds	public/javascripts/controls.js	/^Autocompleter.Base.prototype.getTokenBounds.getFirstDifferencePos = function(newS, oldS) {$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/blueprint.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/css_parser.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/grid_builder.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/namespace.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/semantic_class_names.rb	/^module Blueprint$/;"	m
+Blueprint	public/stylesheets/blueprint/lib/blueprint/validator.rb	/^module Blueprint$/;"	m
+CSSParser	public/stylesheets/blueprint/lib/blueprint/css_parser.rb	/^  class CSSParser$/;"	c	class:Blueprint
+Compressor	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^  class Compressor$/;"	c	class:Blueprint
+CreateUsers	db/migrate/20110130162228_create_users.rb	/^class CreateUsers < ActiveRecord::Migration$/;"	c
+CustomLayout	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^  class CustomLayout$/;"	c	class:Blueprint
+Draggable	public/javascripts/dragdrop.js	/^var Draggable = Class.create({$/;"	v
+Draggables.drags	public/javascripts/dragdrop.js	/^var Draggables = {$/;"	p
+Droppables.drops	public/javascripts/dragdrop.js	/^var Droppables = {$/;"	p
+Effect.Appear	public/javascripts/effects.js	/^};$/;"	f
+Effect.BlindDown	public/javascripts/effects.js	/^};$/;"	f
+Effect.BlindUp	public/javascripts/effects.js	/^};$/;"	f
+Effect.DropOut	public/javascripts/effects.js	/^};$/;"	f
+Effect.DropOut.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Fade	public/javascripts/effects.js	/^};$/;"	f
+Effect.Fold	public/javascripts/effects.js	/^};$/;"	f
+Effect.Fold.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Grow	public/javascripts/effects.js	/^};$/;"	f
+Effect.Grow.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Methods.highlight	public/javascripts/effects.js	/^  },$/;"	m
+Effect.Methods.morph	public/javascripts/effects.js	/^Effect.Methods = {$/;"	m
+Effect.Methods.visualEffect	public/javascripts/effects.js	/^  },$/;"	m
+Effect.MoveBy	public/javascripts/effects.js	/^});$/;"	f
+Effect.Puff	public/javascripts/effects.js	/^};$/;"	f
+Effect.Puff.oldStyle.opacity	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Pulsate	public/javascripts/effects.js	/^};$/;"	f
+Effect.Queues.instances	public/javascripts/effects.js	/^Effect.Queues = {$/;"	p
+Effect.ScrollTo	public/javascripts/effects.js	/^});$/;"	f
+Effect.Shake	public/javascripts/effects.js	/^};$/;"	f
+Effect.Shake.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.Shrink	public/javascripts/effects.js	/^};$/;"	f
+Effect.Shrink.oldStyle.top	public/javascripts/effects.js	/^  var oldStyle = {$/;"	p
+Effect.SlideDown	public/javascripts/effects.js	/^};$/;"	f
+Effect.SlideUp	public/javascripts/effects.js	/^};$/;"	f
+Effect.Squish	public/javascripts/effects.js	/^};$/;"	f
+Effect.SwitchOff	public/javascripts/effects.js	/^};$/;"	f
+Element.collectTextNodes	public/javascripts/effects.js	/^};$/;"	f
+Element.collectTextNodesIgnoreClass	public/javascripts/effects.js	/^};$/;"	f
+Element.findChildren	public/javascripts/dragdrop.js	/^};$/;"	f
+Element.forceRerendering	public/javascripts/effects.js	/^};$/;"	f
+Element.getInlineOpacity	public/javascripts/effects.js	/^};$/;"	f
+Element.getStyles	public/javascripts/effects.js	/^if (document.defaultView && document.defaultView.getComputedStyle) {$/;"	f
+Element.isParent	public/javascripts/dragdrop.js	/^};$/;"	f
+Element.offsetSize	public/javascripts/dragdrop.js	/^};$/;"	f
+Element.setContentZoom	public/javascripts/effects.js	/^};$/;"	f
+Field.scrollFreeActivate	public/javascripts/controls.js	/^});$/;"	f
+File	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^class File$/;"	c
+GridBuilder	public/stylesheets/blueprint/lib/blueprint/grid_builder.rb	/^  class GridBuilder$/;"	c	class:Blueprint
+Namespace	public/stylesheets/blueprint/lib/blueprint/namespace.rb	/^  class Namespace$/;"	c	class:Blueprint
+NilClass	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^class NilClass$/;"	c
+PagesController	app/controllers/pages_controller.rb	/^class PagesController < ApplicationController$/;"	c
+PagesHelper	app/helpers/pages_helper.rb	/^module PagesHelper$/;"	m
+Prototype.Browser	public/javascripts/prototype.js	/^  Version: '1.7_rc2',$/;"	p
+Prototype.Version	public/javascripts/prototype.js	/^var Prototype = {$/;"	p
+SampleApp	config/application.rb	/^module SampleApp$/;"	m
+SemanticClassNames	public/stylesheets/blueprint/lib/blueprint/semantic_class_names.rb	/^  class SemanticClassNames$/;"	c	class:Blueprint
+SessionsController	app/controllers/sessions_controller.rb	/^class SessionsController < ApplicationController$/;"	c
+SessionsHelper	app/helpers/sessions_helper.rb	/^module SessionsHelper$/;"	m
+Sortable.SERIALIZE_RULE	public/javascripts/dragdrop.js	/^var Sortable = {$/;"	p
+SortableObserver	public/javascripts/dragdrop.js	/^var SortableObserver = Class.create({$/;"	v
+Str	public/javascripts/prototype.js	/^  function Str(key, holder, stack) {$/;"	f
+String	public/javascripts/effects.js	/^\/\/ script.aculo.us effects.js v1.8.3, Thu Oct 08 11:23:33 +0200 2009$/;"	c
+String	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^class String$/;"	c
+String.parseColor	public/javascripts/effects.js	/^String.prototype.parseColor = function() {$/;"	m
+String.parseStyle	public/javascripts/effects.js	/^String.prototype.parseStyle = function(){$/;"	m
+Try.these	public/javascripts/prototype.js	/^var Try = {$/;"	m
+Type	public/javascripts/prototype.js	/^  function Type(o) {$/;"	f
+User	app/models/user.rb	/^class User < ActiveRecord::Base$/;"	c
+UsersController	app/controllers/users_controller.rb	/^class UsersController < ApplicationController$/;"	c
+UsersHelper	app/helpers/users_helper.rb	/^module UsersHelper$/;"	m
+Validator	public/stylesheets/blueprint/lib/blueprint/validator.rb	/^  class Validator$/;"	c	class:Blueprint
+about	app/controllers/pages_controller.rb	/^  def about$/;"	f	class:PagesController
+add_namespace	public/stylesheets/blueprint/lib/blueprint/namespace.rb	/^    def add_namespace(html, namespace)$/;"	f	class:Blueprint.Namespace
+append_custom_css	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def append_custom_css(css, current_file_name)$/;"	f
+append_plugin_css	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def append_plugin_css(css, current_file_name)$/;"	f
+append_semantic_classes	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def append_semantic_classes$/;"	f
+asis	public/stylesheets/blueprint/lib/blueprint/validate/README.html	/^    <h2><a name="asis">License Agreement<\/a><\/h2>$/;"	a
+authenticate	app/models/user.rb	/^  def self.authenticate(email, submitted_password)$/;"	F	class:User
+authenticate_with_salt	app/models/user.rb	/^  def self.authenticate_with_salt(id, cookie_salt)$/;"	F	class:User
+blank?	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def blank?$/;"	f	class:NilClass
+blank?	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def blank?; self.length.zero?; end$/;"	f	class:String
+child.id	public/javascripts/dragdrop.js	/^      var child = {$/;"	p
+clone	public/javascripts/prototype.js	/^  function clone(object) {$/;"	f
+column_count	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def column_count$/;"	f	class:Blueprint.CustomLayout
+column_width	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def column_width$/;"	f	class:Blueprint.CustomLayout
+compress	public/stylesheets/blueprint/lib/blueprint/css_parser.rb	/^    def compress(data)$/;"	f	class:Blueprint
+contact	app/controllers/pages_controller.rb	/^  def contact$/;"	f	class:PagesController
+create	app/controllers/sessions_controller.rb	/^  def create$/;"	f	class:SessionsController
+create	app/controllers/users_controller.rb	/^  def create$/;"	f	class:UsersController
+css_file_header	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def css_file_header$/;"	f
+css_from_assignments	public/stylesheets/blueprint/lib/blueprint/semantic_class_names.rb	/^    def css_from_assignments(assignments = {})$/;"	f	class:Blueprint.SemanticClassNames
+current_namespace	public/stylesheets/blueprint/lib/blueprint/namespace.rb	/^    def current_namespace(html)$/;"	f	class:Blueprint
+current_user	app/helpers/sessions_helper.rb	/^  def current_user$/;"	f	class:SessionsHelper
+current_user=	app/helpers/sessions_helper.rb	/^  def current_user=(user)$/;"	f	class:SessionsHelper
+default?	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def default?$/;"	f	class:Blueprint.CustomLayout
+destination_path=	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def destination_path=(path)$/;"	f	class:Blueprint.Compressor
+destroy	app/controllers/sessions_controller.rb	/^  def destroy$/;"	f	class:SessionsController
+down	db/migrate/20110130162228_create_users.rb	/^  def self.down$/;"	F	class:CreateUsers
+down	db/migrate/20110131221305_add_email_uniqueness_index.rb	/^  def self.down$/;"	F	class:AddEmailUniquenessIndex
+down	db/migrate/20110201190750_add_password_to_users.rb	/^  def self.down$/;"	F	class:AddPasswordToUsers
+down	db/migrate/20110201192442_add_salt_to_users.rb	/^  def self.down$/;"	F	class:AddSaltToUsers
+drop	public/javascripts/dragdrop.js	/^    var drop, affected = [];$/;"	v
+droponOptions	public/javascripts/dragdrop.js	/^    var droponOptions = Sortable.options(dropon);$/;"	v
+encrypt	app/models/user.rb	/^  def encrypt(string)$/;"	f	class:User
+encrypt_password	app/models/user.rb	/^  def encrypt_password$/;"	f	class:User
+extend	public/javascripts/prototype.js	/^  function extend(destination, source) {$/;"	f
+function.handleMethod	public/javascripts/rails.js	/^  function handleMethod(element) {$/;"	f
+function.handleRemote	public/javascripts/rails.js	/^  function handleRemote(element) {$/;"	f
+generate!	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def generate!$/;"	f	class:Blueprint.Compressor
+generate!	public/stylesheets/blueprint/lib/blueprint/grid_builder.rb	/^    def generate!$/;"	f	class:Blueprint.GridBuilder
+generate_css_files	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def generate_css_files$/;"	f	class:Blueprint
+generate_grid_css	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def generate_grid_css$/;"	f	class:Blueprint.CustomLayout
+generate_tests	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def generate_tests$/;"	f
+gravatar_for	app/helpers/users_helper.rb	/^  def gravatar_for(user, options = { :size => 50})$/;"	f	class:UsersHelper
+gutter_width	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def gutter_width$/;"	f	class:Blueprint.CustomLayout
+has_password?	app/models/user.rb	/^  def has_password?(submitted_password)$/;"	f	class:User
+help	app/controllers/pages_controller.rb	/^  def help$/;"	f	class:PagesController
+home	app/controllers/pages_controller.rb	/^  def home$/;"	f	class:PagesController
+initialize	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def initialize$/;"	f	class:Blueprint.Compressor
+initialize	public/stylesheets/blueprint/lib/blueprint/css_parser.rb	/^    def initialize(css_string = "", options = {})$/;"	f	class:Blueprint.CSSParser
+initialize	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def initialize(options = {})$/;"	f	class:Blueprint.CustomLayout
+initialize	public/stylesheets/blueprint/lib/blueprint/grid_builder.rb	/^    def initialize(options={})$/;"	f	class:Blueprint.GridBuilder
+initialize	public/stylesheets/blueprint/lib/blueprint/namespace.rb	/^    def initialize(path, namespace)$/;"	f	class:Blueprint.Namespace
+initialize	public/stylesheets/blueprint/lib/blueprint/semantic_class_names.rb	/^    def initialize(options = {})$/;"	f	class:Blueprint.SemanticClassNames
+initialize	public/stylesheets/blueprint/lib/blueprint/validator.rb	/^    def initialize$/;"	f	class:Blueprint.Validator
+initialize_project_from_yaml	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def initialize_project_from_yaml(project_name = nil)$/;"	f	class:Blueprint.Compressor
+input_border	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def input_border$/;"	f	class:Blueprint.CustomLayout
+input_padding	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def input_padding$/;"	f	class:Blueprint.CustomLayout
+inspect	public/javascripts/prototype.js	/^  function inspect(object) {$/;"	f
+isArray	public/javascripts/prototype.js	/^  function isArray(object) {$/;"	f
+isElement	public/javascripts/prototype.js	/^  function isElement(object) {$/;"	f
+isForm.isInput.Event.Handler	public/javascripts/rails.js	/^  if (!submitBubbles || !changeBubbles) {$/;"	c
+isForm.isInput.isForm.isInput.Event.Handler.initialize	public/javascripts/rails.js	/^    Event.Handler.prototype.initialize = Event.Handler.prototype.initialize.wrap($/;"	m
+isFunction	public/javascripts/prototype.js	/^  function isFunction(object) {$/;"	f
+isHash	public/javascripts/prototype.js	/^  function isHash(object) {$/;"	f
+isNumber	public/javascripts/prototype.js	/^  function isNumber(object) {$/;"	f
+isString	public/javascripts/prototype.js	/^  function isString(object) {$/;"	f
+isUndefined	public/javascripts/prototype.js	/^  function isUndefined(object) {$/;"	f
+keys	public/javascripts/prototype.js	/^  function keys(object) {$/;"	f
+logo	app/helpers/application_helper.rb	/^  def logo$/;"	f
+make_salt	app/models/user.rb	/^  def make_salt$/;"	f	class:User
+masterDelay	public/javascripts/effects.js	/^    var masterDelay = options.delay;$/;"	v
+name	public/javascripts/dragdrop.js	/^    var name = encodeURIComponent($/;"	v
+new	app/controllers/sessions_controller.rb	/^  def new$/;"	f	class:SessionsController
+new	app/controllers/users_controller.rb	/^  def new$/;"	f	class:UsersController
+offsets	public/javascripts/dragdrop.js	/^    var offsets = dropon.cumulativeOffset();$/;"	v
+options	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def options #:nodoc:#$/;"	f	class:Blueprint.Compressor
+options_for_draggable.quiet	public/javascripts/dragdrop.js	/^      revert:      true,$/;"	p
+options_for_draggable.revert	public/javascripts/dragdrop.js	/^    var options_for_draggable = {$/;"	p
+options_for_droppable.overlap	public/javascripts/dragdrop.js	/^    var options_for_droppable = {$/;"	p
+options_for_tree.onHover	public/javascripts/dragdrop.js	/^    var options_for_tree = {$/;"	p
+output_footer	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def output_footer$/;"	f
+output_footer	public/stylesheets/blueprint/lib/blueprint/validator.rb	/^    def output_footer$/;"	f	class:Blueprint.Validator
+output_header	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def output_header$/;"	f
+output_header	public/stylesheets/blueprint/lib/blueprint/validator.rb	/^    def output_header$/;"	f	class:Blueprint.Validator
+page_width	public/stylesheets/blueprint/lib/blueprint/custom_layout.rb	/^    def page_width$/;"	f	class:Blueprint.CustomLayout
+parse	public/stylesheets/blueprint/lib/blueprint/css_parser.rb	/^    def parse(data = nil)$/;"	f	class:Blueprint.CSSParser
+partial	public/javascripts/prototype.js	/^        var partial = [];$/;"	v
+path_to_string	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def self.path_to_string(path)$/;"	F	class:File
+pointer	public/javascripts/dragdrop.js	/^    var pointer = [Event.pointerX(event), Event.pointerY(event)];$/;"	v
+putsv	public/stylesheets/blueprint/lib/blueprint/compressor.rb	/^    def putsv(str)$/;"	f
+remember_token	app/helpers/sessions_helper.rb	/^  def remember_token$/;"	f	class:SessionsHelper
+remove_current_namespace	public/stylesheets/blueprint/lib/blueprint/namespace.rb	/^    def remove_current_namespace(html)$/;"	f	class:Blueprint
+root.children	public/javascripts/dragdrop.js	/^      parent: null,$/;"	p
+root.id	public/javascripts/dragdrop.js	/^    var root = {$/;"	p
+root.parent	public/javascripts/dragdrop.js	/^      id: null,$/;"	p
+s	public/javascripts/dragdrop.js	/^    var s = Sortable.sortables[element.id];$/;"	v
+secure_hash	app/models/user.rb	/^  def secure_hash(string)$/;"	f	class:User
+show	app/controllers/users_controller.rb	/^  def show$/;"	f	class:UsersController
+sign_in	app/helpers/sessions_helper.rb	/^  def sign_in(user)$/;"	f	class:SessionsHelper
+sign_out	app/helpers/sessions_helper.rb	/^  def sign_out$/;"	f	class:SessionsHelper
+signed_in?	app/helpers/sessions_helper.rb	/^  def signed_in?$/;"	f	class:SessionsHelper
+string_to_file	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def self.string_to_file(string, path)$/;"	F	class:File
+stringify	public/javascripts/prototype.js	/^  function stringify(object) {$/;"	f
+strip_selector_space!	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def strip_selector_space!$/;"	f	class:String
+strip_side_space!	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def strip_side_space!$/;"	f	class:String
+strip_space!	public/stylesheets/blueprint/lib/blueprint/core_ext.rb	/^  def strip_space!$/;"	f	class:String
+test_sign_in	spec/spec_helper.rb	/^  def test_sign_in(user)$/;"	f
+title	app/helpers/application_helper.rb	/^  def title$/;"	f	class:ApplicationHelper
+toHTML	public/javascripts/prototype.js	/^  function toHTML(object) {$/;"	f
+toJSON	public/javascripts/prototype.js	/^  function toJSON(value) {$/;"	f
+toQueryString	public/javascripts/prototype.js	/^  function toQueryString(object) {$/;"	f
+to_s	public/stylesheets/blueprint/lib/blueprint/css_parser.rb	/^    def to_s$/;"	f	class:Blueprint.CSSParser
+up	db/migrate/20110130162228_create_users.rb	/^  def self.up$/;"	F	class:CreateUsers
+up	db/migrate/20110131221305_add_email_uniqueness_index.rb	/^  def self.up$/;"	F	class:AddEmailUniquenessIndex
+up	db/migrate/20110201190750_add_password_to_users.rb	/^  def self.up$/;"	F	class:AddPasswordToUsers
+up	db/migrate/20110201192442_add_salt_to_users.rb	/^  def self.up$/;"	F	class:AddSaltToUsers
+user_from_remember_token	app/helpers/sessions_helper.rb	/^  def user_from_remember_token$/;"	f	class:SessionsHelper
+validate	public/stylesheets/blueprint/lib/blueprint/validator.rb	/^    def validate$/;"	f	class:Blueprint.Validator
+values	public/javascripts/prototype.js	/^  function values(object) {$/;"	f
+var.Effect._elementDoesNotExistError	public/javascripts/effects.js	/^var Effect = {$/;"	p
